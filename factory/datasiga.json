@@ -1,0 +1,9 @@
+{
+	"name": "datasiga",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1fbfa094-fe8b-4393-b913-33ec5e26f3c3",
+		"tenantId": "c46d7e89-a2c6-4f83-9244-0c2780d348b4"
+	}
+}
